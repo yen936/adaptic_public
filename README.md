@@ -10,8 +10,11 @@ The beautiful user interface displays predictions graphs. Users can add stocks, 
 
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
+## Investing Notes
+
+All investments involve risk, and you should take Adaptic's projections as purely educational in nature. Adaptic is a tool that you can use to aid in your investment decision process but should not be the only factor used to decide.   
+
 ## Development Notes
 
 Adaptic utilises a client-server architecture to take advantege of the power machine learning libraries that the python community has developed. 
-
 
