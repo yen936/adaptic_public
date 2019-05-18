@@ -23,5 +23,5 @@ scikit-learn==0.20.3
 scipy==1.2.1
 six==1.12.0
 sklearn==0.0
-urllib3==1.24.1
+urllib3>=1.24.2
 whitenoise==4.1.2
