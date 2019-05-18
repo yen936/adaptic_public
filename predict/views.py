@@ -6,9 +6,6 @@ from rest_framework import status
 
 
 class Predictor(APIView):
-    """
-    List all snippets, or create a new snippet.
-    """
 
     def get(self):
         return Response("Must be a POST request", status=status.HTTP_400_BAD_REQUEST)
