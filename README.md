@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-An iOS Swift app, served from and build upon the Django web framework. Adaptic uses a support vector machine (SVM) classifier from Scikit-Learn to predict stock prices. The SVM 🤖 classifies the next price as bullish 🐮 or bearish 🐻 then uses guesses the percent by which the next stock price will change. 
+An iOS Swift app, served from and build upon the Django/Django Rest Framework. Adaptic uses a support vector machine (SVM) classifier from Scikit-Learn to predict stock prices. The SVM 🤖 classifies the next price as bullish 🐮 or bearish 🐻 then uses guesses the percent by which the next stock price will change. 
 
 The beautiful user interface displays predictions graphs. Users can add stocks, crypto, and indexes to their watch lists for future reference. 📈 Hosted on Heroku. 
 
