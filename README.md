@@ -2,6 +2,9 @@
 > Machine Learning Stock Price Predictor Mobile App
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
+
 
 
 An iOS Swift app, served from and build upon the Django/Django Rest Framework. Adaptic uses a support vector machine (SVM) classifier from Scikit-Learn to predict stock prices. The SVM 🤖 classifies the next price as bullish 🐮 or bearish 🐻 then uses guesses the percent by which the next stock price will change. 
